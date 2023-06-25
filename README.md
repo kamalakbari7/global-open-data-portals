@@ -83,4 +83,8 @@ This repository lists a number of famous open data portals across the world, mak
 | Jamaica | Jamaica's Open Data Portal | [Link](https://data.gov.jm/) |
 | Albania | Albania's Open Data Portal | [Link](https://www.opendata.gov.al/) |
 
-Feel free to contribute to the list by following the [contribution guidelines](CONTRIBUTING.md). This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+### Contribution
+Feel free to contribute. 
+
+### Licence
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
