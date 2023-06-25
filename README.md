@@ -1,5 +1,8 @@
-# Open Data Portals Around The World
+# Global Open Data Sources List
 
+## Description
+
+This repository aims to provide a comprehensive list of open data sources available globally. The data sources vary in nature and cover a wide array of sectors such as healthcare, finance, education, environment, and many more.
 This repository lists a number of famous open data portals across the world, making it easy for developers, data scientists, and anyone interested in data to find the data they need.
 
 | Country | Name of Open Data Portal | URL |
